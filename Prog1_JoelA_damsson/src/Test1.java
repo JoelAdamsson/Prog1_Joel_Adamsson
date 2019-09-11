@@ -1,7 +1,7 @@
 
 public class Test1 {
 	public static void main(String [] arg){
-//momugei
+//momugeieyyyyy
 	int tal1; // deklarering	
 	tal1=1; // tilldelning
 	
